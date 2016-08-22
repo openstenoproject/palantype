@@ -55,8 +55,8 @@ When representing the order in raw format in this website, we use two additional
 You may have noticed that there are missing keys on the layout above. You probably also saw the keys that aren't letters. The `+` keys are called "cross" and the `^` keys are called "point". They are used to give an alternate sound for whatever key you are pressing in each section.
 
 - The left cross (`+-`) keys are functionally only one key, they are sometimes split for comfort. If you press it, it changes the sound of the left consonant that you are pressing. For example, if you press `P-`, the beginning sound is "P". If you press `P+-`, the beginning sound is "B".
-- The right cross (`-+`) key also modifies the sound of consonants, but for the right hand. So if you press `-P`, the ending sound is "P". But if you press `-P+`, the ending sound is "B". If we take our previous example of `POP` mapping to "pop", then `P+OP+`
-- The point (`-^`) keys are also functionally only one key, and they modify the sound of the vowel being hit by your thumbs. For example, `BIT` maps to "it" while `BI^T` maps to "beet".
+- The right cross (`-+`) key also modifies the sound of consonants, but for the right hand. So if you press `-P`, the ending sound is "P". But if you press `-P+`, the ending sound is "B". If we take our previous example of `POP` mapping to "pop", then `P+OP+` maps to "bob".
+- The point (`-^`) keys are also functionally only one key, and they modify the sound of the vowel being hit by your thumbs. For example, `IT` maps to "it" while `BI^T` maps to "beet".
 
 ### QWERTY to Palan Mapping
 
@@ -94,20 +94,22 @@ The vowels are very versatile and some representations are used for phonetic sou
 |-------|----------|------|
 | a | back, shack | `A` |
 | ah | barn, arm | `A^` |
-| ai | mate, hate | `E^` |
+| ai, one vowel | mate, game | `E^` |
+| ai, multiple vowels* | feint, faint | `EI` |
 | aw | raw, saw | `O^` |
 | e | peck, met | `E` |
 | ee | sheet, meek | `I^` |
-| ei | feint, faint | `EI` |
 | ei | slay, fey | `EI` |
 | ea | eat, feat, bear | `EA` |
 | i | brick, it | `I` |
 | aye | eye, might | `AI` | 
 | o | mock, ox | `O` | 
-| oa | board, load | `OA` |
+| oa* | board, load | `OA` |
 | oi | boy, toil | `OI` |
 | oo | moon, shook | `OU` | 
 | ow | shower, town | `AU` | 
-| u | suck, mud | `U` | 
-| ue | mute, new | `EU` | 
-| ur | girl, church | `U^` | 
+| u | truck, mud | `U` | 
+| ur | girl, church | `U^` |
+| you | mute, new | `EU` | 
+
+*\*Using these keys is determined by the sound paired with the spelling of the word.*
