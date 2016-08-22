@@ -16,7 +16,7 @@
 title: Palantype
 email: morinted@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Learn the Palantype machine shorthand system for free.
+  Learn the Palantype machine shorthand system for free. You can learn how to Palantype with only a keyboard.
 baseurl: "/palantype" # the subpath of your site, e.g. /blog
 url: "http://openstenoproject.org" # the base hostname & protocol for your site
 twitter_username: plover

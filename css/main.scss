@@ -26,6 +26,11 @@ $content-width:    800px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
+.site-title img {
+  padding: 5px 0;
+  max-width: 150px;
+}
+
 // Minima also includes a mixin for defining media queries.
 // Use media queries like this:
 // @include media-query($on-palm) {
