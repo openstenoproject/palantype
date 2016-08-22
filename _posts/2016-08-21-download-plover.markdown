@@ -2,7 +2,15 @@
 layout: post
 title:  "Download Plover"
 date:   2016-08-21 17:10:00 -0400
-categories: Palantype software dictionary Plover stenography
+categories: page
+tags:
+- palantype
+- plover
+- stenography
+- chording
+- stenotype
+- learn
+- download
 ---
 
 Plover does not officially support Palantype at this time, however you can download test builds of it.

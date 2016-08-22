@@ -2,7 +2,12 @@
 layout: post
 title:  "Palan versus Steno"
 date:   2016-08-21 15:30:00 -0400
-categories: steno palan stenography Palantype
+categories: palantype
+tags:
+- steno
+- palan
+- stenography
+- Palantype
 ---
 
 Individuals familiar with chorded systems will likely know about stenography before they hear about Palantype. Palantype is the European invention while stenography is an American one. They are actually very similar in some core ways, but each has their slight advantage. If you are blindly going to start learning one, you might want to look at their pros and cons.

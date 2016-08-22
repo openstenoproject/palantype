@@ -2,7 +2,16 @@
 layout: post
 title:  "Learn Palantype!"
 date:   2016-08-21 17:00:00 -0400
-categories: Palantype lesson tutorial
+categories: tutorial
+tags:
+- palantype
+- lesson
+- howto
+- tutorial
+- chording
+- chorded
+- typing
+- speed
 ---
 
 So you want to learn the Palantype (pah-lahn-type) machine shorthand system, do you? Well, you've come to the right (and the only?) place on the Internet. My name is Ted, I'm a developer of Plover, the free open source stenography program. I'm stenoing this guide, not palantyping it. I can't say that I know the system well, but I know enough to get you started. I also don't know how much you know about chording systems or about Palantype itself. I'm going to start from the beginning, and try to be brief. The Palantype is a simple system, simpler than stenography. It's main barrier of entry is the fact that you can't find lessons online for free and you can't get a good Palantype machine for anywhere near what a normal person might consider a "reasonable cost." For that reason, Plover (the software that we'll use to drive the Palantype logic) supports input from regular keyboards that support NKRO.
