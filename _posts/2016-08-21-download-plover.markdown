@@ -21,7 +21,7 @@ In the meantime, feel free to download the software below.
 
 ## Download Plover for Palantype
 
-Download and run [plover_palantest_1.exe]({{ site.baseurl }}/assets/plover_palantest_1.exe)
+Download and run [plover_palantest_2.exe](https://github.com/morinted/plover/releases/download/palantype_2/plover_palantype_2.exe)
 
 ## Setup
 
