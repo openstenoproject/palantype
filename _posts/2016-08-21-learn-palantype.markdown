@@ -122,3 +122,21 @@ The vowels are very versatile and some representations are used for phonetic sou
 | you | mute, new | `EU` | 
 
 *\*Using these keys is determined by the sound paired with the spelling of the word.*
+
+## Common Briefs
+
+Briefs are shortcuts for commonly used words.
+
+- `"UFLTS": deletes last stroke`
+- `"TH": "the"`
+- `"^": "{.}"` the end of sentence period
+- `"+-": "{,}"`
+- `"+-^": "{;}"`
+- `"-^+": "{?}"`
+- `"-CS": "{!}"`
+- `"+-+": "{:}"`
+
+## Sample exercise
+
+1. The quick brown fox jumps over the lazy dog.
+- TH CFIC HRAUN FOCS +YUMPS OEFR TH LE^/+SI T+OC+ ^
