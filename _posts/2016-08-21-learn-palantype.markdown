@@ -65,7 +65,7 @@ You may have noticed that there are missing keys on the layout above. You probab
 
 - The left cross (`+-`) keys are functionally only one key, they are sometimes split for comfort. If you press it, it changes the sound of the left consonant that you are pressing. For example, if you press `P-`, the beginning sound is "P". If you press `P+-`, the beginning sound is "B".
 - The right cross (`-+`) key also modifies the sound of consonants, but for the right hand. So if you press `-P`, the ending sound is "P". But if you press `-P+`, the ending sound is "B". If we take our previous example of `POP` mapping to "pop", then `P+OP+` maps to "bob".
-- The point (`-^`) keys are also functionally only one key, and they modify the sound of the vowel being hit by your thumbs. For example, `IT` maps to "it" while `BI^T` maps to "beet".
+- The point (`-^`) keys are also functionally only one key, and they modify the sound of the vowel being hit by your thumbs. For example, `P+IT` maps to "bit" while `P+I^T` maps to "beet".
 
 ### QWERTY to Palan Mapping
 
