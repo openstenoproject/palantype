@@ -13,26 +13,19 @@ tags:
 - download
 ---
 
-Plover does not officially support Palantype at this time, however you can download test builds of it.
+Plover, the free open source stenography program, supports Palantype through a plugin.
 
 To learn more about Plover, the stenography program, check out its [official website](/plover).
 
-In the meantime, feel free to download the software below.
-
 ## Download Plover for Palantype
 
-Download and run [plover_palantest_2.exe](https://github.com/morinted/plover/releases/download/palantype_2/plover_palantype_2.exe)
+Download and run [the latest pre-release of Plover](https://github.com/openstenoproject/plover/releases)
+
+Plover 4.0 will come with the plugins manager, until that is released, please get the pre-release versions!
 
 ## Setup
 
-### If you have a Palantype machine
-
-- you will need to have it connected to your computer and not communicating with other Palantype software
-- start Plover, configure the machine to "Palantype" and wait for it to connect.
-- It is recommended to remove the default dictionaries provided with Plover in the dictionary configuration dialog and replace them with RTF exports from your other software.
-
-### If you have an NKRO keyboard
-
-- You will need to start with a blank dictionary or [download a small dictionary]({{ site.baseurl }}/assets/palantype-starter.rtf)
-- Replace the default Plover dictionaries with your starter dictionary.
-- Ensure to configure the keyboard mapping to understand how your QWERTY keyboard happens to the Palantype layout. You can adjust the defaults if your keyboard layout is not QWERTY.
+- Install Plover from the above link.
+- Open Plover, and select the "Plugins Manager" from the toolbar.
+- Find "plover_palantype" and select "Install".
+- There are instructions on configuring machine on the [plugin's page](https://github.com/morinted/plover_palantype#plover-palantype).
