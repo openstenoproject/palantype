@@ -99,27 +99,27 @@ If you are using Plover and don't have a Palantype machine, you can still try ou
 
 The vowels are very versatile and some representations are used for phonetic sounds like "ee" and "aye", while others are used for spelling like in "bear" as opposed to "bare"
 
-| Sound | Examples | Keys |
-|-------|----------|------|
-| a | back, shack | `A` |
-| ah | barn, arm | `A^` |
-| ai, one vowel | mate, game | `E^` |
-| ai, multiple vowels* | feint, faint | `EI` |
-| aw | raw, saw | `O^` |
-| e | peck, met | `E` |
-| ee | sheet, meek | `I^` |
-| ei | slay, fey | `EI` |
-| ea | eat, feat, bear | `EA` |
-| i | brick, it | `I` |
-| aye | eye, might | `AI` | 
-| o | mock, ox | `O` | 
-| oa* | board, load | `OA` |
-| oi | boy, toil | `OI` |
-| oo | moon, shook | `OU` | 
-| ow | shower, town | `AU` | 
-| u | truck, mud | `U` | 
-| ur | girl, church | `U^` |
-| you | mute, new | `EU` | 
+| Sound | IPA |  Examples | Keys |
+|-------|-----|-----------|------|
+| a | [æ] | back, shack | `A` |
+| ah | [ɑ:] | barn, arm | `A^` |
+| ai, one vowel | [eɪ] | mate, game | `E^` |
+| ai, multiple vowels* | [eɪ] | feint, faint | `EI` |
+| aw | [ɔː] | raw, saw | `O^` |
+| e | [e] | peck, met | `E` |
+| ee | [i:] | sheet, meek | `I^` |
+| ei | [eɪ] | slay, fey | `EI` |
+| ea | [i:] | eat, feat, bear | `EA` |
+| i | [ɪ] | brick, it | `I` |
+| aye | [aɪ] | eye, might | `AI` | 
+| o | [ɑ/ɒ] | mock, ox | `O` | 
+| oa* | [ɔː] | board, load | `OA` |
+| oi | [ɔɪ] | boy, toil | `OI` |
+| oo | [u:] | moon, shook | `OU` | 
+| ow | [aʊ] | shower, town | `AU` | 
+| u | [ʌ] | truck, mud | `U` | 
+| ur | [ɜː] | girl, church | `U^` |
+| you | [uː] | mute, new | `EU` | 
 
 *\*Using these keys is determined by the sound paired with the spelling of the word.*
 
