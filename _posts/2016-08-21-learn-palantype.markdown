@@ -99,27 +99,27 @@ If you are using Plover and don't have a Palantype machine, you can still try ou
 
 The vowels are very versatile and some representations are used for phonetic sounds like "ee" and "aye", while others are used for spelling like in "bear" as opposed to "bare"
 
-| Sound | IPA |  Examples | Keys |
-|-------|-----|-----------|------|
-| a | [æ] | back, shack | `A` |
-| ah | [ɑ:] | barn, arm | `A^` |
-| ai, one vowel | [eɪ] | mate, game | `E^` |
-| ai, multiple vowels* | [eɪ] | feint, faint | `EI` |
-| aw | [ɔː] | raw, saw | `O^` |
-| e | [e] | peck, met | `E` |
-| ee | [i:] | sheet, meek | `I^` |
-| ei | [eɪ] | slay, fey | `EI` |
-| ea | [i:] | eat, feat, bear | `EA` |
-| i | [ɪ] | brick, it | `I` |
-| aye | [aɪ] | eye, might | `AI` | 
-| o | [ɑ/ɒ] | mock, ox | `O` | 
-| oa* | [ɔː] | board, load | `OA` |
-| oi | [ɔɪ] | boy, toil | `OI` |
-| oo | [u:] | moon, shook | `OU` | 
-| ow | [aʊ] | shower, town | `AU` | 
-| u | [ʌ] | truck, mud | `U` | 
-| ur | [ɜː] | girl, church | `U^` |
-| you | [uː] | mute, new | `EU` | 
+| Sound | IPA |  Examples | Keys | Ireland |
+|-------|-----|-----------|------|----------|
+| a | [æ] | back, shack | `A` | `A` |
+| ah | [ɑ:] | barn, arm | `A^` | `A` |
+| ai, one vowel | [eɪ] | mate, game | `E^` | `AEU` |
+| ai, multiple vowels* | [eɪ] | feint, faint | `EI` | `AEU` |
+| aw | [ɔː] | raw, saw | `O^` | `AU` |
+| e | [e] | peck, met | `E` | `E` |
+| ee | [i:] | sheet, meek | `I^` | `AOE` |
+| ei | [eɪ] | slay, fey | `EI` | `AEU` |
+| ea | [i:] | eat, feat, bear | `EA` | `AOE` |
+| i | [ɪ] | brick, it | `I` | `EU` |
+| aye | [aɪ] | eye, might | `AI` | `AOEU` |
+| o | [ɑ/ɒ] | mock, ox | `O` | `O` |
+| oa* | [ɔː] | board, load | `OA` | `OE` |
+| oi | [ɔɪ] | boy, toil | `OI` | `OEU` |
+| oo | [u:] | moon, shook | `OU` | `AO` |
+| ow | [aʊ] | shower, town | `AU` | `OU` |
+| u | [ʌ] | truck, mud | `U` | `U` |
+| ur | [ɜː] | girl, church | `U^` | `U` |
+| you | [uː] | mute, new | `EU` | `AOU` |
 
 *\*Using these keys is determined by the sound paired with the spelling of the word.*
 
