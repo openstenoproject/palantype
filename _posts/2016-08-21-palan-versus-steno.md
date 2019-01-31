@@ -28,9 +28,11 @@ Stenography has fewer keys than the Palantype, but that means that the Palantype
 
 The stenotype has fewer keys and less travel while writing, giving it a clear advantage over the Palantype for ergonomics. Furthermore, steno machines often have a very light touch, especially in the lever-action keys that you find in professional machines. Many Palantypes have regular Cherry switches which are heavy to press in a chorded manner. Be sure that if you are looking for a Palantype machine that you aim for one with a light touch, or even the Neutrino Group's option which uses a steno-lever system with the Palantype layout (albeit at a prohibitive cost). The Palantype has the user moving their hands around the board more. This can be seen by looking at videos of writers in each system on YouTube.
 
-Palantype demo: <https://www.youtube.com/watch?v=w1PXqy2Vk2A>
-
-Stenography demo: <https://www.youtube.com/watch?v=0VllYASd84o>
+- Palantype demos: 
+  - [Traditional Palan Machine](https://www.youtube.com/watch?v=w1PXqy2Vk2A)
+  - [Lever machine](https://youtu.be/pH1tHVzhNVU) (no output visible)
+- Stenography demos:
+  - [Lever machine](https://www.youtube.com/watch?v=0VllYASd84o)
 
 However, both Palantype and stenography likely offer ergonomic improvements over QWERTY, where there is a lot of travel and many more key presses as the user needs to hit every key in a word instead of making hand shapes.
 
