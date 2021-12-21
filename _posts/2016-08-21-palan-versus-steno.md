@@ -22,7 +22,7 @@ Stenography is much more popular than Palantype. There are still many schools te
 
 ### Simplicity
 
-Stenography has fewer keys than the Palantype, but that means that the Palantype has fewer conflicts. One issue common to both systems is that the stenographer/palantypist needs to resolve phonetic conflicts. For example, "there", "their", and "they're" all sound the same, but have different meanings. It is slightly easier to resolve these conflicts with the Palantype due to its higher number of keys and disambiguators. For this reason, the learning curve on the Palantype is less.
+Stenography has fewer keys than the Palantype, but that means that the Palantype has fewer conflicts. One issue common to both systems is that the stenographer/palantypist needs to resolve phonetic conflicts. For example, "there", "their", and "they're" all sound the same, but have different meanings. It is slightly easier to resolve these conflicts with the Palantype due to its higher number of keys and disambiguators. For this reason, the learning curve on the Palantype is less steep.
 
 ### Ergonomics
 
